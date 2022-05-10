@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=TftaxqNFsZY
+
 # Azure Friday - Azure Serverless on Kubernetes with KEDA
 
 Demo used in Azure Friday on Azure Serverless on Kubernetes with KEDA episode.
